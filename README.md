@@ -1,6 +1,6 @@
 # GN Country Explorer Dashboard
 
-This goes with the [2023-10-27 edition of hrbrmstr's Daily Drop]().
+This goes with the [2023-10-27 edition of hrbrmstr's Daily Drop](https://dailyfinds.hrbrmstr.dev/p/drop-362-2023-10-27-weekend-project).
 
 ![page 1](image.png)
 
